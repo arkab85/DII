@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository and record its version or commit."
+title: "Directional Irreversibility Index: Python reference implementation"
+type: software
+authors:
+  - family-names: Bandyopadhyay
+    given-names: Arka Prava
+version: 0.1.0
+date-released: 2026-09-24
+license: MIT
+repository-code: "https://github.com/arkab85/DII"
+url: "https://github.com/arkab85/DII"
